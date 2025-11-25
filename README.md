@@ -4,7 +4,6 @@ After completing my Master's degree in Physics, I transitioned into the fields o
 ---
 
 ## 🛠️ Tech Stack
-
 **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **AI/ML:** ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
@@ -20,7 +19,6 @@ After completing my Master's degree in Physics, I transitioned into the fields o
 ---
 
 ## 💼 Professional Experience
-
 ### 🔬 Junior Researcher | [EC21 R&C](https://ec21rnc.com) AX Team
 📅 *October 2024 - Present*
 
@@ -39,6 +37,8 @@ After completing my Master's degree in Physics, I transitioned into the fields o
 - Quantum phase transitions
 - Low-dimensional materials characterization
 
+</details>
+
 <details>
 <summary><b>Bachelor's Degree</b> | Konkuk University | Physics (Transfer)</summary>
 
@@ -47,6 +47,8 @@ After completing my Master's degree in Physics, I transitioned into the fields o
 - Solid State Physics
 - Electromagnetism
 - Thermodynamics and Statistical Mechanics
+
+</details>
 
 ---
 
