@@ -39,6 +39,15 @@ After completing my Master's degree in Physics, I transitioned into the fields o
 - Quantum phase transitions
 - Low-dimensional materials characterization
 
+<details>
+<summary><b>Bachelor's Degree</b> | Konkuk University | Physics (Transfer)</summary>
+
+### Coursework & Studies
+- Quantum Mechanics
+- Solid State Physics
+- Electromagnetism
+- Thermodynamics and Statistical Mechanics
+
 ---
 
 <details>
