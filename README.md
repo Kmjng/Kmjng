@@ -31,10 +31,13 @@ After completing my Master's degree in Physics, I transitioned into the fields o
 
 ## ✍🏻 Education
 
-| Degree | Institution | Major |
-|--------|-------------|-------|
-| Master's | Konkuk University | Quantum Phase & Devices |
-| Bachelor's | Konkuk University (Transfer) | Physics  |
+<details>
+<summary><b>Master's Degree</b> | Konkuk University | Quantum Phase & Devices</summary>
+
+### Research Focus
+- Graphene-based quantum devices
+- Quantum phase transitions
+- Low-dimensional materials characterization
 
 ---
 
