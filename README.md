@@ -31,11 +31,10 @@ After completing my Master's degree in Physics, I transitioned into the fields o
 
 ## ✍🏻 Education
 
-### 🎓 Master's Degree | Konkuk University
-**Major:** Quantum Phase & Devices
-
-### 🎓 Bachelor's Degree | Konkuk University
-**Major:** Physics (Transfer)
+| Degree | Institution | Major |
+|--------|-------------|-------|
+| Master's | Konkuk University | Quantum Phase & Devices |
+| Bachelor's | Konkuk University (Transfer) | Physics  |
 
 ---
 
