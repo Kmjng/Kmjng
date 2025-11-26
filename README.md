@@ -47,7 +47,7 @@ After completing my Master's degree in Physics, I transitioned into the fields o
 ---
 
 <details>
-<summary>**📜 Certifications**</summary>
+<summary>📜 **Certifications**</summary>
 
 | Certification | Session | Date | Issuing Organization |
 |--------------|---------|------|---------------------|
