@@ -47,7 +47,7 @@ After completing my Master's degree in Physics, I transitioned into the fields o
 ---
 
 <details>
-<summary>📜 **Certifications**</summary>
+<summary>📜 Certifications</summary>
 
 | Certification | Session | Date | Issuing Organization |
 |--------------|---------|------|---------------------|
@@ -58,7 +58,7 @@ After completing my Master's degree in Physics, I transitioned into the fields o
 </details>
 
 <details>
-<summary>**📖 Professional Training**</summary>
+<summary>📖 Professional Training</summary>
 
 ### 💡 Big Data & Machine Learning Professional Training Program
 **Duration:** February 2024 - August 2024 (6 months / 968 hours)
