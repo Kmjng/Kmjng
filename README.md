@@ -63,7 +63,8 @@ After completing my Master's degree in Physics, I transitioned into the fields o
 ### 💡 Big Data & Machine Learning Professional Training Program
 **Duration:** February 2024 - August 2024 (6 months / 968 hours)
 
-#### 📌 Key Areas Covered:
+#### 📌 Key Areas Covered:  
+```
 **① Programming & Data Analysis**
 - Python, R Programming
 - Data preprocessing & feature engineering
@@ -82,5 +83,5 @@ After completing my Master's degree in Physics, I transitioned into the fields o
 
 **④ Big Data Technologies**
 - Hadoop ecosystem
-
+```
 </details>
