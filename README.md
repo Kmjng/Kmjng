@@ -64,27 +64,23 @@ After completing my Master's degree in Physics, I transitioned into the fields o
 **Duration:** February 2024 - August 2024 (6 months / 968 hours)
 
 #### 📌 Key Areas Covered:
-
-**Programming & Data Analysis**
+**① Programming & Data Analysis**
 - Python, R Programming
 - Data preprocessing & feature engineering
 - Statistical analysis & visualization
 - API-based data analysis
 
-**Machine Learning & Deep Learning**
+**② Machine Learning & Deep Learning**
 - Frameworks: Scikit-learn, TensorFlow, PyTorch
 - Classification, regression, clustering algorithms
 - Model evaluation & hyperparameter tuning
 - Deep learning modeling
 
-**Database Management**
+**③ Database Management**
 - MySQL, Oracle
 - SQL table management & joins
 
-**Big Data Technologies**
+**④ Big Data Technologies**
 - Hadoop ecosystem
-
-**Data Visualization**
-- Tableau
 
 </details>
