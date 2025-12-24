@@ -14,7 +14,7 @@ After completing my Master's degree in Physics, I transitioned into the fields o
 
 ## 💼 Professional Experience
 ### 🔬 Junior Researcher | [EC21 R&C](https://ec21rnc.com) AX Team
-📅 *October 2024 - Present*
+📅 *October 2024 - December 2025*
 
 ### 🔬 Master's Researcher | [A Barristor Company](https://www.abarristor.com/)
 📅 *March 2023 - December 2023*
