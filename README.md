@@ -24,7 +24,7 @@ After completing my Master's degree in Physics, I transitioned into the fields o
 ## ✍🏻 Education
 
 <details>
-<summary><b>Master's Degree</b> | Konkuk University | Quantum Phase & Devices</summary>
+<summary><b>Master's Degree</b> | Konkuk University | Physics(Quantum Phase & Devices)</summary>
 
 ### Research Focus
 - Graphene-based quantum devices
