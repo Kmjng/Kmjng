@@ -19,7 +19,7 @@
 ## 💼 Professional Experience
 
 ### 🔬 AI Researcher | [Duknsoft](https://duknsoft.com) AI Lab
-📅 *December 2025 -*  
+📅 *December 2025 - Now*  
 
 ### 🔬 Junior Researcher | [EC21 R&C](https://ec21rnc.com) AX Team
 📅 *October 2024 - December 2025*
